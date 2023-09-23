@@ -1,0 +1,8 @@
+folder_tst: /home/user/tst
+folder_out: /home/user/out
+folder_ext: /home/user/folder_1
+folder_ext_2: /home/user/folder_2 #подкаталог
+file_in_ext: /home/user/ext/test.txt"
+count: 10
+stat_file: /home/user/stat.txt
+archive_type: -t
